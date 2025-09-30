@@ -1,0 +1,64 @@
+h1{
+    font-family :'Courier New', Courier, monospace;
+    font-size: 60px ;
+    text-align: center;
+    font-weight: bold;
+    color :#3a4da0;
+    text-decoration: underline;
+    
+
+}
+
+.list{
+    font-family: 'Lucida Console', 'Courier New', monospace;
+    font-size: 20px;
+    margin-left: 20px;
+}
+
+body{
+    font-size: 20px;
+    background: linear-gradient( #C5ADC5 , #B2B5E0 );
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.Headings{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
+    font-weight: bold;
+    color :#189759;
+    text-decoration: underline;
+}
+.Headings_List{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-style: italic;
+}
+
+a:link{
+    color: rgb(10, 152, 10);
+    font-size: 22px;
+
+}
+a:visited{
+    color: rgb(249, 249, 12);
+    font-size: 22px;
+
+}
+a:active{
+    color: rgb(119, 119, 214);
+    font-size: 22px;
+}
+a:hover{
+    color: rgb(223, 37, 4) ;
+    font-size: 22px;
+}
+
+.HeadingMain{
+    font-family: Roboto, 'Courier New', Courier, monospace;
+    font-size: 40px;
+    font-weight: bold;
+    color :#981c22;
+    text-decoration: underline;
+    text-align: center;
+}
